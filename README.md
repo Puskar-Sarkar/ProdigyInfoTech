@@ -1,6 +1,6 @@
 # Prodigy InfoTech Cyber Security Internship
 
-This repository summarizes my work and learnings during the Cyber Security Internship offered by Prodigy InfoTech. I successfully completed 5 core tasks designed to strengthen fundamentals in cybersecurity, cryptography, and network analysis.
+This repository summarizes my work and learnings during the Cyber Security Internship offered by Prodigy InfoTech. I successfully completed 5 core tasks designed to strengthen fundamentals in cybersecurity, cryptography and network analysis.
 
 ## 🔐 Completed Tasks
 
